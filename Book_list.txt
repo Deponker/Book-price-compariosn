@@ -1,0 +1,246 @@
+ISBN: 978-0393310351
+Title: Thinking Strategically: The Competitive Edge in Business, Politics, and Everyday Life
+Edition: 
+Language: English
+Publisher: W. W. Norton & Company
+Author_id: 1, 2
+Author: Avinash K. Dixit, Barry J. Nalebuff
+
+ISBN: 978-0066620992
+Title: Good to Great: Why Some Companies Make the Leap and Others Don't
+Edition: 1st edition
+Language: English
+Publisher: HarperBusiness
+Author_id: 3
+Author: Jim Collins 
+
+ISBN: 978-1492041948
+Title: Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play
+Edition: 1st edition
+Language: English
+Publisher: O'Reilly Media
+Author_id: 4
+Author:David Foster
+
+ISBN: 978-0387310732
+Title: Pattern Recognition and Machine Learning
+Edition: NULL
+Language: English
+Publisher: Springer
+Author_id: 5
+Author: Christopher Michael Bishop
+
+ISBN: 978-3030248918
+Title: The Internet of Things in the Industrial Sector: Security and Device Connectivity, Smart Environments, and Industry 4.0
+Edition: 1st edition
+Language: English
+Publisher: Springer
+Author_id: 6
+Author: Zaigham Mahmood
+
+ISBN: 978-1449355739
+Title: Learning Python
+Edition: Fifth edition
+Language:  English
+Publisher: O'Reilly Media
+Author_id: 7
+Author: Mark Lutz
+
+ISBN: 978-0552161275
+Title: The Da Vinci Code
+Edition: Latest ed.
+Language: English
+Publisher: RHUK
+Author_id: 8 
+Author: Dan Brown
+
+ISBN: 978-1416524793
+Title: Angels and Demons
+Edition: Latest ed.
+Language: English
+Publisher: RHUK
+Author_id: 8
+Author: Dan Brown
+
+ISBN: 978-0552169592
+Title: Inferno
+Edition: Latest ed.
+Language: English
+Publisher: Corgi
+Author_id: 8
+Author: Dan Brown
+
+ISBN: 978-0062073488
+Title: And Then There Were None
+Edition: Reissue ed.
+Language: English
+Publisher: William Morrow
+Author_id: 9
+Author: Agatha Christie
+
+ISBN: 978-0062073563
+Title: The Murder of Roger Ackroyd: A Hercule Poirot Mystery
+Edition: Reprint ed.
+Language: English
+Publisher: William Morrow
+Author_id: 9
+Author: Agatha Christie
+
+ISBN: 978-1439148129
+Title: Postmortem
+Edition: Reprint ed.
+Language: English
+Publisher: Pocket Books
+Author_id: 10
+Author: Patricia Cornwell
+
+ISBN: 978-0062436702
+Title: Chaos
+Edition:
+Language: English
+Publisher: William Morrow
+Author_id: 10
+Author: Patricia Cornwell
+
+ISBN: 978-0425270042
+Title: Dust 
+Edition: Reprint ed.
+Language: English
+Publisher: Berkley
+Author_id: 10
+Author: Patricia Cornwell
+
+ISBN: 978-0060853983
+Title: Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+Edition: Reprint ed.
+Language: English
+Publisher: William Morrow
+Author_id: 11, 12
+Author: Neil Gaiman, Terry Pratchett
+
+ISBN: 978-9332549449
+Title: The C Programming Language
+Edition: 2nd edition
+Language: English
+Publisher: Pearson Education India
+Author_id: 13, 14
+Author: Brian W. Kernighan, Dennis M. Ritchie
+
+ISBN: 978-0131099500
+Title: C Programming Language
+Edition: NULL
+Language: English
+Publisher:  Prentice Hall 
+Author_id: 13, 14
+Author: Brian W. Kernighan, Dennis M. Ritchie
+
+ISBN: 978-1405826013
+Title:  Structured Computer Organization with C Programming Language
+Edition: 5th ed.
+Language: English
+Publisher: Prentice Hall
+Author_id: 13, 14, 15
+Author: Andrew S. Tanenbaum, Brian W. Kernighan, Dennis M. Ritchie
+
+ISBN: 978-1405811194
+Title: UNIX for Programmers and Users with C Programming Language
+Edition: NULL
+Language: English
+Publisher: Prentice Hall
+Author_id: 13, 14, 16, 17
+Author: Graham Glass, King Ables, Brian W. Kernighan, Dennis M. Ritchie
+
+ISBN: 978-1984291516
+Title: Banalata Sen
+Edition: NULL
+Language: Bengali
+Publisher: CreateSpace Independent Publishing Platform
+Author_id: 18
+Author: Jibanananda Das
+
+ISBN: 978-1979456968
+Title: Shesher Kabita
+Edition: NULL
+Language: Bengali
+Publisher: CreateSpace Independent Publishing Platform
+Author_id: 19
+Author: Rabindranath Tagore
+
+ISBN: 978-1984107473
+Title: Padma Nadir Majhi
+Language: Bengali
+Publisher: CreateSpace Independent Publishing Platform
+Author_id: 20
+Author: Manik Bandopadhyay
+
+ISBN: 978-1986020909
+Title: Rupasi Bangla
+Edition: NULL
+Language: Bengali
+Publisher: CreateSpace Independent Publishing Platform
+Author_id: 18
+Author: Jibanananda Das
+
+ISBN: 978-0674417045
+Title: The Essential Tagore
+Edition: NULL
+Language: English
+Publisher: Belknap Press: An Imprint of Harvard University Press
+Author_id: 19
+Author: Rabindranath Tagore
+
+ISBN: 978-1521925775
+Title: Gitanjali
+Edition: NULL
+Language: English
+Publisher: Independently published
+Author_id: 19
+Author: Rabindranath Tagore
+
+ISBN: 978-1847941831
+Title: Atomic Habits
+Edition: NULL
+Language: English
+Publisher: Random House Business
+Author_id: 21
+Author: James Clear
+
+ISBN: 978-1451639612
+Title: The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
+Edition: Anniversary edition
+Language: English
+Publisher: Simon & Schuster
+Author_id: 22
+Author: Stephen R. Covey
+
+ISBN: 978-0062954862
+Title: The Case Against Socialism
+Edition: NULL
+Language: English
+Publisher: Broadside Books
+Author_id: 23
+Author: Rand Paul
+
+ISBN:  978-1409186052
+Title: The Night Fire
+Edition: NULL
+Language: English
+Publisher: Orion
+Author_id: 24
+Author: Michael Connelly
+
+ISBN: 978-1984827616
+Title: Where the Crawdads Sing
+Edition: Large Print edition
+Language: English
+Publisher: Random House Large Print
+Author_id: 25
+Author: Delia Owens
+
+ISBN: 978-1452182759
+Title: Dumpty: The Age of Trump in Verse
+Edition: NULL
+Language: English
+Publisher: Chronicle Prism
+Author_id: 26
+Author: John Lithgow

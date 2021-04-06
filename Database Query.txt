@@ -1,0 +1,72 @@
+create table books(
+  book_id int(11) NOT NULL PRIMARY KEY AUTO_INCREMENT,
+  isbn bigint(20) NOT NULL,
+  title varchar(5000) NOT NULL,
+  edition varchar(100),
+  lang varchar(100) NOT NULL,
+  publisher varchar(500) NOT NULL,
+  b_authors varchar(4000) NOT NULL
+
+);
+
+
+insert into books(isbn, title, edition, lang, publisher, b_authors)
+values(9780393310351, 'Thinking Strategically: The Competitive Edge in Business, Politics, and Everyday Life', 'N/A', 'English', 'W. W. Norton & Company', 'Avinash K. Dixit, Barry J. Nalebuff');
+
+insert into books(isbn, title, edition, lang, publisher, b_authors)
+values(9780066620992, "Good to Great: Why Some Companies Make the Leap and Others Don't", '1st edition', 'English', 'HarperBusiness', 'Jim Collins');
+
+insert into books(isbn, title, edition, lang, publisher, b_authors)
+values(9781492041948, 'Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play', '1st edition', 'English', "O'Reilly Media", 'David Foster');
+
+
+
+create table individual_seller(
+  seller_id int(11) NOT NULL PRIMARY KEY AUTO_INCREMENT,
+  book_id int(11) NOT NULL,
+  price double(10,2) NOT NULL,
+  quantity int(11) NOT NULL,
+  contact varchar(50) NOT NULL
+); 
+
+
+
+insert into individual_seller(book_id, price, quantity, contact)
+values(1, 200.50, 10, 01754-76xy67);
+insert into individual_seller(book_id, price, quantity, contact)
+values(2, 201.60, 15, 01954-76xy67);
+insert into individual_seller(book_id, price, quantity, contact)
+values(3, 202.70, 15, 01854-76xy67);
+
+
+create table new_book-shop(
+ book_id int(11) NOT NULL, 
+ price double(10,2) NOT NULL,
+ quantity int(11) NOT NULL
+);
+
+
+
+insert into new_book_shop(book_id, price, quantity)
+values(1, 300.50, 5);
+insert into new_book_shop(book_id, price, quantity)
+values(2, 301.60, 7);
+insert into new_book_shop(book_id, price, quantity)
+values(3, 302.70, 9);
+
+
+
+create table old_book_shop(
+  book_id int(11) NOT NULL,
+  price double(10,2) NOT NULL,
+  quantity int(11) NOT NULL
+);
+
+
+
+insert into old_book_shop(book_id, price, quantity)
+values(1, 400.50, 20);
+insert into new_book_shop(book_id, price, quantity)
+values(2, 401.60, 25);
+insert into new_book_shop(book_id, price, quantity)
+values(3, 402.70, 30);
